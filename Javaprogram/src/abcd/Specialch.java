@@ -13,6 +13,7 @@ String text ="68-90 ! to \\ / 8 @ 9 # 8 % 00000 shabnam";
  text=text.replaceAll("[0-9]","");
 		  System.out.println(text);
 		  System.out.println("data is created");
+		  System.out.println("space is characters ");
 
 		
 
